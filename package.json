@@ -5,7 +5,7 @@
 	"author": "Jelle De Loecker <jelle@codedor.be>",
 	"keywords": ["coroutine", "async"],
 	"main": "./lib/init.js",
-	"repository": "git@github.com:skerit/protoblast.git",
+	"repository": "git@github.com:skerit/garner.git",
 	"license": "MIT",
 	"engines": {
 		"node": ">=0.10"
