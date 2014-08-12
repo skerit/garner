@@ -1,0 +1,13 @@
+{
+	"name": "garner",
+	"description": "Prevent the pyramid of doom with garner functions",
+	"version": "0.1.0-alpha",
+	"author": "Jelle De Loecker <jelle@codedor.be>",
+	"keywords": ["coroutine", "async"],
+	"main": "./lib/init.js",
+	"repository": "git@github.com:skerit/protoblast.git",
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.10"
+	}
+}
